@@ -1,7 +1,7 @@
 {
   "name": "ravenous",
   "version": "0.1.0",
-  "homepage": "https://venimitev.github.io/Ravenous-Codecademy",
+  "homepage": "https://www.venimitev.dev/Ravenous-Codecademy",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
