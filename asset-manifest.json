@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Ravenous-Codecademy/static/css/main.96f5e8ab.css",
-    "main.js": "/Ravenous-Codecademy/static/js/main.19f0df0b.js",
-    "static/media/background_search_desktop.jpg": "/Ravenous-Codecademy/static/media/background_search_desktop.5d22362af7aa3252eb5b.jpg",
-    "static/media/background_search_mobile.jpg": "/Ravenous-Codecademy/static/media/background_search_mobile.a6f8ee50c5c0c66a98c5.jpg",
+    "main.css": "/Ravenous-Codecademy/static/css/main.a9eb2a58.css",
+    "main.js": "/Ravenous-Codecademy/static/js/main.18ebcfaf.js",
+    "static/media/background_search_desktop.jpg": "/Ravenous-Codecademy/static/media/background_search_desktop.5721092d3c485d97381f.jpg",
+    "static/media/background_search_mobile.jpg": "/Ravenous-Codecademy/static/media/background_search_mobile.43cfb6e7295e6b7956d7.jpg",
     "index.html": "/Ravenous-Codecademy/index.html",
-    "main.96f5e8ab.css.map": "/Ravenous-Codecademy/static/css/main.96f5e8ab.css.map",
-    "main.19f0df0b.js.map": "/Ravenous-Codecademy/static/js/main.19f0df0b.js.map"
+    "main.a9eb2a58.css.map": "/Ravenous-Codecademy/static/css/main.a9eb2a58.css.map",
+    "main.18ebcfaf.js.map": "/Ravenous-Codecademy/static/js/main.18ebcfaf.js.map"
   },
   "entrypoints": [
-    "static/css/main.96f5e8ab.css",
-    "static/js/main.19f0df0b.js"
+    "static/css/main.a9eb2a58.css",
+    "static/js/main.18ebcfaf.js"
   ]
 }
