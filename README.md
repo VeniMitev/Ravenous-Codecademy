@@ -2,7 +2,7 @@
 ### Codecademy project, practicing React, and using the Yelp API
 
 ------------
-[Deployment of the app]([https://www.example.com](https://www.venimitev.dev/Ravenous-Codecademy/))
+[Deployment of the app](https://www.venimitev.dev/Ravenous-Codecademy/)
 
 ## Future improvements:
 
