@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Ravenous-Codecademy/static/css/main.a9eb2a58.css",
-    "main.js": "/Ravenous-Codecademy/static/js/main.18ebcfaf.js",
+    "main.js": "/Ravenous-Codecademy/static/js/main.5d821fda.js",
     "static/media/background_search_desktop.jpg": "/Ravenous-Codecademy/static/media/background_search_desktop.5721092d3c485d97381f.jpg",
     "static/media/background_search_mobile.jpg": "/Ravenous-Codecademy/static/media/background_search_mobile.43cfb6e7295e6b7956d7.jpg",
     "index.html": "/Ravenous-Codecademy/index.html",
     "main.a9eb2a58.css.map": "/Ravenous-Codecademy/static/css/main.a9eb2a58.css.map",
-    "main.18ebcfaf.js.map": "/Ravenous-Codecademy/static/js/main.18ebcfaf.js.map"
+    "main.5d821fda.js.map": "/Ravenous-Codecademy/static/js/main.5d821fda.js.map"
   },
   "entrypoints": [
     "static/css/main.a9eb2a58.css",
-    "static/js/main.18ebcfaf.js"
+    "static/js/main.5d821fda.js"
   ]
 }
